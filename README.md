@@ -92,3 +92,7 @@ If the `expense-tracker` command doesn't work after `npm link`:
 ## License
 
 MIT
+
+## Projects URLs
+https://roadmap.sh/projects/expense-tracker
+https://github.com/AhmedHeshamC/expenseTracker
