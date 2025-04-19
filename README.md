@@ -89,10 +89,19 @@ If the `expense-tracker` command doesn't work after `npm link`:
 2. Try running `npm install -g` in the project directory
 3. Alternatively, use the direct node commands shown above
 
-## License
-
-MIT
-
 ## Projects URLs
 https://roadmap.sh/projects/expense-tracker
 https://github.com/AhmedHeshamC/expenseTracker
+
+## 🤝 Contributing
+
+1. Fork the repo
+2. Create feature branch
+3. Write tests
+4. Submit a PR
+
+Please adhere to the existing code style and coverage requirements.
+
+---
+
+© 2025 Ahmed Hesham. MIT License.
